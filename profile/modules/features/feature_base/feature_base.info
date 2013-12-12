@@ -38,3 +38,4 @@ dependencies[] = field_placeholder
 dependencies[] = variable
 dependencies[] = rules
 dependencies[] = nodequeue
+dependencies[] = transliteration

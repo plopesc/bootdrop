@@ -50,3 +50,7 @@ projects[rules][type] = "module"
 ; Nodequeue
 projects[nodequeue][version] = 2.0-beta1
 projects[nodequeue][type] = "module"
+
+; Transliteration
+projects[transliteration][version] = 3.1
+projects[transliteration][type] = "module"
