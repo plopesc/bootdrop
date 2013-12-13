@@ -39,3 +39,5 @@ dependencies[] = variable
 dependencies[] = rules
 dependencies[] = nodequeue
 dependencies[] = transliteration
+dependencies[] = entitycache
+dependencies[] = globalredirect

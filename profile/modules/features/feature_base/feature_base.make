@@ -54,3 +54,11 @@ projects[nodequeue][type] = "module"
 ; Transliteration
 projects[transliteration][version] = 3.1
 projects[transliteration][type] = "module"
+
+; Entity cache
+projects[entitycache][version] = 1.2
+projects[entitycache][type] = "module"
+
+; Global redirect
+projects[globalredirect][version] = 1.5
+projects[globalredirect][type] = "module"
